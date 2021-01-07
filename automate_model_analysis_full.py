@@ -11,7 +11,6 @@ import deeplabcut
 import pathlib
 from ruamel.yaml import YAML
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 
 def auto_evaluate_model (path_config,
